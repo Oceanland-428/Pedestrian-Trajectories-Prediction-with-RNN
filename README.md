@@ -1,5 +1,5 @@
 # Pedestrian-Trajectories-Prediction-with-RNN
-Used LSTM and GRU for RNN, KNN for linear regression
+Used LSTM and GRU for RNN, KNN for linear regression. The programs are implemented in Tensorflow, Python 2.7
 The idea comes from Social-LSTM experiment of Stanford University.
 The paper named Social LSTM: Human Trajectory Prediction in Crowded Spaces
 This project is not the duplicate of the experiment in the paper, nor a reimplement of the algorithm mentioned in the paper. The original code of the lab can be referred in this website: https://github.com/vvanirudh/social-lstm-tf
