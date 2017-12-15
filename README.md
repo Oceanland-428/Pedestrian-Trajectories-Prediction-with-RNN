@@ -1,11 +1,11 @@
 # Pedestrian-Trajectories-Prediction-with-RNN
-###### Motivation:
+### Motivation:
 
 Prediction on trajectories of pedestrians becomes more essential than ever in the era of the development of autonomous vehicles.
 
 This project compares performances of different methods on predicting x-y coordinates based on sequential time steps.
 
-###### Methodology:
+### Methodology:
 
 Inputs: x-y coordinates of sequential steps of a person
 
