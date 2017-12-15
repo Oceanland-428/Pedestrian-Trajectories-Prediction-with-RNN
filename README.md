@@ -1,9 +1,22 @@
 # Pedestrian-Trajectories-Prediction-with-RNN
-Used LSTM and GRU for RNN, KNN for linear regression. The programs are implemented in Tensorflow, Python 2.7
+Motivation:
+
+Prediction on trajectories of pedestrians becomes more essential than ever in the era of the development of autonomous vehicles.
+
+This project compares performances of different methods on predicting x-y coordinates based on sequential time steps.
+
+Methodology:
+
+Inputs: x-y coordinates of sequential steps of a person
+
+Output: x-y coordinate of the next step of this person
+
+Methods: LSTM, GRU, KNN with linear regression
+
+The programs are implemented in Tensorflow, Python 2.7
+
 The idea comes from Social-LSTM experiment of Stanford University.
+
 The paper named Social LSTM: Human Trajectory Prediction in Crowded Spaces
+
 This project is not the duplicate of the experiment in the paper, nor a reimplement of the algorithm mentioned in the paper. The original code of the lab can be referred in this website: https://github.com/vvanirudh/social-lstm-tf
-
-The preprocess of the data is similar to the original code from the lab, but it is modified according to the need of this project.
-
-There are three methods used in the project, LSTM, GRU and KNN. Each of them is an independent python file. At the time of this README is written (2017-11-29), the KNN has not been finished. There will also be files regarding to model analysis (eg. various and bias) and feature selections that will be uploaded shortly.
