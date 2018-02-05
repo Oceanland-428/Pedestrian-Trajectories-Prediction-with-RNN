@@ -1,4 +1,4 @@
-# Pedestrian-Trajectories-Prediction-with-RNN
+# Pedestrian Trajectories Prediction with RNN
 ### Motivation:
 
 Prediction on trajectories of pedestrians becomes more essential than ever in the era of the development of autonomous vehicles.
